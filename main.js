@@ -1,1 +1,3 @@
-console.log("Hello js")
+function add(){
+console.log("add")
+}
